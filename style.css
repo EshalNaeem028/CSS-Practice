@@ -9,3 +9,9 @@ p{
     color: cadetblue;
     font-weight:bold;
 }
+
+/* Class Selector */
+.info{
+    font-size:45px;
+    color:grey;
+}
