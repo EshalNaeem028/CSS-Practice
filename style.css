@@ -21,3 +21,9 @@ p{
     text-align: center;
     
 }
+/* Grouping Selectors */
+/*Allows you to style multiple HTML elements at the same time using single CSS rule */
+h1,p{
+    margin: 10px;
+
+}
