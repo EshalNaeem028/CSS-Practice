@@ -3,3 +3,9 @@
     font-family: Arial, serif;
     color: blue;
 }
+/* Element Selector */
+
+p{
+    color: cadetblue;
+    font-weight:bold;
+}
