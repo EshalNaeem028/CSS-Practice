@@ -27,3 +27,10 @@ h2{
 .hex-colors{
     color: #FFE2BF;
 }
+/*========================
+     RGB COLORS EXAMPLE
+  ========================
+ */
+.rgb-colors{
+    color: rgb(255, 0, 0);
+}
