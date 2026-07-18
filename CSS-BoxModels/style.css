@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+
+}
+.box{
+
+    width:300px;
+    height:150px;
+    border:5px solid #8B4513;
+    margin:30px auto;
+    background-color:#FFE2BF;
+    text-align: center;
+    line-height:150px;
+
+
+}
