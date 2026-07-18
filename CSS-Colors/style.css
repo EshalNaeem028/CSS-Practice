@@ -34,3 +34,6 @@ h2{
 .rgb-colors{
     color: rgb(255, 0, 0);
 }
+h1{
+    background-color: gray;
+}
