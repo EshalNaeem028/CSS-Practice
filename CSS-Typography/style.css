@@ -1,4 +1,13 @@
 
+h1{
+    font-size:40px;
+    font-weight:bold;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px ;
+
+
+}
 
 p{
     font-size:25px;
