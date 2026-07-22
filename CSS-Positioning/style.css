@@ -51,3 +51,8 @@ h1{
     bottom:20px;
     right:20px;
 }
+.absolute-box{
+    position:absolute;
+    top:20px;
+    right:20px;
+
