@@ -56,3 +56,8 @@ h1{
     top:20px;
     right:20px;
 
+}
+.sticky-container{
+    height:600px;
+    border: 2px dashed #8B4513; 
+    overflow-y: auto;
