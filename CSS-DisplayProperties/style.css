@@ -30,6 +30,10 @@ h1{
     text-align:center;
 
 }
+/*display:block*/
+.block-box{
+    display:block;
+}
 
 
 
