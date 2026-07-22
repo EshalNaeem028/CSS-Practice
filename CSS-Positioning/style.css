@@ -17,3 +17,10 @@ h1{
 
 
 
+/* Common Box styling */
+.container {
+    position: relative;
+    height: 180px;
+    border: 2px dashed #8B4513;
+}
+
