@@ -10,7 +10,8 @@ body{
     flex-direction: column-reverse;
     gap:10px;
     border:3px solid black;
-
+    padding:15px;
+    ;
 
 }
 
