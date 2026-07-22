@@ -33,4 +33,8 @@ h1{
     width:120px;
 
 }
-/}
+/* position : static*/
+.static-box{
+    position:static;
+
+}
