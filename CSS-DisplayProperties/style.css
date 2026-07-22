@@ -40,6 +40,15 @@ h1{
 
 }
 
+/*display:inline-block-box*/
+.inline-block-box{
+    display:inline-block;
+    width:120px;
+    height:80px;
+
+
+}
+
 
 
 
