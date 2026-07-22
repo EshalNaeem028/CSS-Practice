@@ -20,7 +20,9 @@ body{
     width: 75px;
     height: 75px;
     background-color: lightskyblue;
+    border:2px solid darkblue;
 
+}
 
 
 
