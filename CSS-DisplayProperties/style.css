@@ -1,0 +1,23 @@
+/* General Styling*/
+
+body{
+    font-family:"Poppins",sans-serif;
+    background-color: #FFE2BF;
+    color:black;
+    margin:30px;
+    line-height:1.6;
+
+
+}
+
+h1{
+    text-align: center;
+}
+
+.display-demo{
+    background-color: gray;
+    padding:20px;
+    margin:20px 0;
+    border-radius:10px;
+}
+
