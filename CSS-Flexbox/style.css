@@ -19,7 +19,9 @@ body{
 .flex-item {
     width: 75px;
     height: 75px;
-}
+    background-color: lightskyblue;
+
+
 
 
 
