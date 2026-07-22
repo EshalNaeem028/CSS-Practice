@@ -52,6 +52,12 @@ h1{
 .hidden-box{
     display:none;
 
+}
+/* display: flex */
+.flex-container{
+    display:flex;
+}
+
 
 
 
