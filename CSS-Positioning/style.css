@@ -59,7 +59,7 @@ h1{
 }
 .sticky-container{
     height:600px;
-    border: 2px dashed #8B4513; 
+    border: 2px dashed #8B4513;
     overflow-y: auto;
 
 }
