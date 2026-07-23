@@ -16,15 +16,7 @@ A comprehensive collection of CSS practice exercises covering fundamental to adv
 - Animations
 - Transforms
 - Pseudo-classes
-- Pseudo-elements
-- Responsive Design
-- Media Queries
-- CSS Variables
-- Gradients
 - Shadows
-- Overflow
-- Z-index
-- And more...
 
 ## Technologies Used
 
@@ -46,7 +38,8 @@ CSS-Practice/
 ├── 08-CSS-Grid/
 ├── 09-Transitions/
 ├── 10-Animations/
-├── ...
+├── 11-Pseudo-classes/
+├── 12-Shadows/
 ```
 
 
