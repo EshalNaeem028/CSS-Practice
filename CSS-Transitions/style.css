@@ -3,4 +3,5 @@
     height:200px;
     background-color:pink;
 
-   
+    transition:transform 0.3s ease,background-color 0.3s ease;
+}
