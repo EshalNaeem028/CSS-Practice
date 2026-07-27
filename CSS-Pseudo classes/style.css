@@ -12,3 +12,6 @@ a:hover{
 a:active{
     color:teal;
 }
+button:hover{
+    background-color: lightpink;
+}
