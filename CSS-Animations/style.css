@@ -24,4 +24,5 @@
 }
 
 @keyframes mySlide {
-
+    from{ margin-left:0}
+   
