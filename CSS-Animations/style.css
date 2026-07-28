@@ -31,4 +31,7 @@
 
 }
 @keyframes myRotate {
+    100%{transform: rotateX(360deg)}
+
+}
 
