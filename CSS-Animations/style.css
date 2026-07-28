@@ -10,4 +10,7 @@
     animation-play-state: running;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-   
+    animation-duration: 5s;
+
+}
+
