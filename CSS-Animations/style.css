@@ -9,4 +9,5 @@
     animation:mySlide;
     animation-play-state: running;
     animation-iteration-count: infinite;
- 
+    animation-timing-function: linear;
+   
