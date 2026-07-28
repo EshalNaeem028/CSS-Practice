@@ -39,4 +39,5 @@
 }
 @keyframes myColorChange{
     20%{background-color:orange;}
+    40%{background-color:red;}
 
