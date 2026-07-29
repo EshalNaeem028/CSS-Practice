@@ -66,4 +66,7 @@ footer{
     .card{
         width:90%;
     }
- 
+    h1{
+        font-size:28px;
+    }
+}
