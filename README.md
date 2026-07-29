@@ -17,6 +17,7 @@ A comprehensive collection of CSS practice exercises covering fundamental to adv
 - Transforms
 - Pseudo-classes
 - Shadows
+- Responsive CSS
 
 ## Technologies Used
 
@@ -40,6 +41,8 @@ CSS-Practice/
 ├── 10-Animations/
 ├── 11-Pseudo-classes/
 ├── 12-Shadows/
+├── 13-Responsive-css/
+
 ```
 
 
