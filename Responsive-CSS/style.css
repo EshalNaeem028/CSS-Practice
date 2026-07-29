@@ -27,3 +27,11 @@ nav a {
     font-weight:bold;
 
 }
+/* Cards */
+.cards{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    padding:30px;
+
+}
